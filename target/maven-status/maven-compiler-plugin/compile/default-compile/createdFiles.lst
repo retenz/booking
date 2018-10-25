@@ -1,0 +1,3 @@
+com\gis\booking\app\entities\Place.class
+com\gis\booking\app\controller\Booking.class
+com\gis\booking\app\model\Database.class
